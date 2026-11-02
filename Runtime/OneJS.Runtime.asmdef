@@ -9,7 +9,7 @@
     "allowUnsafeCode": true,
     "overrideReferences": true,
     "precompiledReferences": [
-        "ExCSS.Unity.dll"
+        "OneJS.ExCSS.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
